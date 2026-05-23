@@ -15,6 +15,3 @@ Execute os scripts conforme a necessidade com o seu interpretador de comandos pr
 
 Contribuições são bem-vindas! Abra uma Issue ou envie um Pull Request.
 
-## Licença
-
-Este projeto está sob licença MIT.
